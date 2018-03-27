@@ -1,1 +1,6 @@
 # udp-socket-practice
+
+https://docs.oracle.com/javase/6/docs/api/java/util/Arrays.html#copyOfRange%28byte%5B%5D,%20int,%20int%29
+
+
+http://cluster1.cafe.daum.net/_c21_/bbs_search_read?grpid=upCr&fldid=Ivy9&datanum=13&openArticle=true&docid=upCrIvy91320121212201200

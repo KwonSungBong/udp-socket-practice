@@ -9,6 +9,6 @@ http://cluster1.cafe.daum.net/_c21_/bbs_search_read?grpid=upCr&fldid=Ivy9&datanu
 http://www.cs.rochester.edu/~cding/Teaching/200Spring2002/Assignments/McastTest.java
 
 
-
+https://ulrichbuschbaum.wordpress.com/2015/04/06/sending-an-object-via-udp-multicast-using-java/
 
 
